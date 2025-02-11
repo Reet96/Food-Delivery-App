@@ -6,8 +6,7 @@ This repository contains the design files for the *Food Delivery App*, which foc
 
 The full UI/UX design can be found on Figma. You can view, explore, and comment on the design via the link below:
 
-[View the Design on Figma]
-(https://www.figma.com/design/EeoXH9cMxiEvt0gOrZfJMx/Eat-More?node-id=0-1&m=dev&t=t3WRICHyqr1jrQBt-1)
+[View the Design on Figma](https://www.figma.com/design/EeoXH9cMxiEvt0gOrZfJMx/Eat-More?node-id=0-1&m=dev&t=t3WRICHyqr1jrQBt-1)
 
 ## Design Overview
 
